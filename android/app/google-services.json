@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154838245443",
+    "project_id": "dreamhome-847e9",
+    "storage_bucket": "dreamhome-847e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154838245443:android:5b85cbb4404a1730e274f6",
+        "android_client_info": {
+          "package_name": "com.example.dreamhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfaMBBgy9O-Z4Kpw5m3FhAsAyuBSWKtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
